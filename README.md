@@ -6,4 +6,4 @@ Sözcüklerin, dilin evriminde sessiz harfler daha belirleyici. Eğer öyleyse b
 
 Bunları çözümleyecek bir uzmanlığa sahip değilim. Fakat bu gördüğüm bu noktayı ortaya sürmekten beni alıkoymuyor. 
 
-ChatGPT'nin kısa/çabuk bir söyleşide bu konuya dair söylediklerini not ediyorum: https://chatgpt.com/share/6ac2aa01-5454-83ea-9f05-eefd383d5f46
+ChatGPT'nin kısa/çabuk bir söyleşide [bu konuya dair söylediklerini](https://chatgpt.com/share/6ac2aa01-5454-83ea-9f05-eefd383d5f46) not ediyorum.
